@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Prana Argentum - Certification Portal",
   description: "Cargo and Marine Surveyor Services Company - Digital Certification Portal",
-    generator: 'v0.dev'
+    generator: 'hayu'
 }
 
 export default function RootLayout({

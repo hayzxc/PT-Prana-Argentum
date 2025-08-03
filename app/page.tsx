@@ -278,7 +278,7 @@ export default function HomePage() {
                   <div>
                     <p className="font-semibold">Kantor Pusat Surabaya</p>
                     <p className="text-blue-200 text-sm">
-                      Jl. Ikan Mungsing V No.75, Perak Barat
+                      Jl. Ikan Mungsing V No.77, Perak Barat
                       <br />
                       Kec. Krembangan, Surabaya, Jawa Timur
                     </p>
@@ -392,7 +392,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400 animate-fade-in">
-            <p>© 2025 Prana Argentum. All rights reserved. | Layanan Surveyor Profesional Surabaya</p>
+            <p>© 2025 Prana Argentum. All rights reserved. | Layanan Fumigasi Profesional Surabaya</p>
           </div>
         </div>
       </footer>
