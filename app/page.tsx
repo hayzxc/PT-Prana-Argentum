@@ -165,12 +165,12 @@ export default function HomePage() {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-8 md:mb-0 animate-slide-in">
-              <PlaceholderImage
+              <img
+                src="/images/our-team.png"
                 width={600}
                 height={400}
-                text="Prana Argentum Professional Team"
                 alt="Tim profesional Prana Argentum"
-                className="rounded-lg shadow-xl"
+                className="rounded-lg shadow-xl object-cover w-full h-full"
               />
             </div>
             <div className="md:w-1/2 md:pl-12 animate-fade-in" style={{ animationDelay: "0.2s" }}>
